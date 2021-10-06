@@ -1,0 +1,15 @@
+1.Provide three websites that you enjoy visiting?
+Amazon, Nike, Adidas
+2. What is the relationship between an IP address and the DNS?
+An IP address is a number that is assigned to a device as well a server. This number is used to recognize it on given network.The DNS (Domain Name System) and IP addresses have some commons. The DNS is an Internet service that uses a DNS server to translate domain usernames
+to IP addresses and IP addresses to their related domain names/hostnames
+
+3. What is a cookies?
+
+When you connect to the server, the server creates data in a cookie. There are text files containing small bits of login  information — such as a username and passcodes — that are used to identify your computer when you connect to the internet. The next you try to login somewhere, if you have accepted the cookiess. They will remember all the information about you.
+
+
+4. List the three essential parts of a URL
+The protocol – HTTP or HTTPS.
+The domain name  that identifies a site.
+The path leading to a specific web page.
