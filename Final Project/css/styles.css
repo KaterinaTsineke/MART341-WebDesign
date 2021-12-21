@@ -1,0 +1,64 @@
+div{
+    text-align: left;
+    line-height: 1.60em;
+    font-family: FiraSans, sans-serif;
+    margin-bottom: 18px;
+    padding: 7px;
+
+}
+
+
+
+h1, h3, h5{
+    text-align: center;
+    font-family: FiraSans, sans-serif;
+    background-color: grey;
+
+}
+.opening-paragraph{
+    color: ;
+    font-size: 20px;
+    text-indent: 10px;
+    font-weight:400;
+background-color: brown;}
+
+.opening-paragraph {
+    font-weight:400;
+    font-size: 18px;
+}
+.second-paragraph{
+    font-weight:400;
+    font-size: 18px;
+    background-color: grey;
+}
+.third-paragraph{
+    font-weight:400;
+    font-size: 18px;
+    background-color: brown;
+  }
+  .fourth-paragraph{
+      font-weight:400;
+      font-size: 18px;
+      background-color: grey;
+    }
+    .fifth-paragraph{
+        font-weight:400;
+        font-size: 18px;
+        background-color: brown;
+      }
+
+
+#book_info{
+  .thick {
+  text-decoration: solid underline purple 4px;
+}
+;
+    font-family: cursive, sans-serif;
+}
+#book_info:hover{
+    font-family:  Merriweather, sans-serif;
+    text-decoration: underline;
+    font-weight: 700;
+
+
+  

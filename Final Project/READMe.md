@@ -1,0 +1,3 @@
+Basically everything I learned was new to me since I never had the chance to work on website again! I learned how to use atom and github a little bit. And I also learned how to style my website which I think was the best part. (even though I still need some work)
+The biggest challenges I had this week was being consistent(on the court). This is what I have been struggling with the most and I am not quite sure how to overcome this but I will find a way.
+Also I want to thank you for your patience and for helping me trough the course. It was really nice meeting you and get to spend some time at your office. Hope you have a good winter break. Happy Holidays!
